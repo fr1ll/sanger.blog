@@ -1,12 +1,14 @@
 ---
 layout: home
-title: A simple starter kit for Eleventy
+title: Will Sanger's personal site
 postsHeading: Latest posts
 archiveButtonText: See all posts
-metaDesc: 'Hylia is a lightweight Eleventy starter kit to help you to create your own blog or personal website.'
+metaDesc: 'This is my way to learn about web publishing and maybe share something useful at the same time.'
 socialImage: ''
 ---
 
-Hylia is a lightweight [Eleventy](https://11ty.io) starter kit with [Netlify CMS](https://www.netlifycms.org/) pre-configured, so that you can one-click install a progressive, accessible blog in minutes. It also gives you a well organised starting point to extend yourself. It’s by [Andy Bell](https://twitter.com/hankchizljaw) and [friends](https://github.com/aarongustafson/hylia/graphs/contributors).
+I am an earth scientist who likes messing with code, based in Houston, TX but originally from Monroe, WA 💚.
 
-Get started now by [deploying Hylia to Netlify.](https://app.netlify.com/start/deploy?repository=https://github.com/hankchizljaw/hylia&stack=cms)
+I plan to write about little web hacks, coffee, visualization ideas, and anything else that comes up. I hope it will get weirder as time goes on.
+
+This blog is built from [Hylia](https://hylia.website), a lightweight [Eleventy](https://11ty.io) starter kit by [Andy Bell](https://twitter.com/hankchizljaw) and [friends](https://github.com/aarongustafson/hylia/graphs/contributors).
