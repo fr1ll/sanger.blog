@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Will Sanger's personal site
+title: Welcome to my site!
 postsHeading: Latest posts
 archiveButtonText: See all posts
 metaDesc: 'This is my way to learn about web publishing and maybe share something useful at the same time.'
