@@ -1,6 +1,6 @@
 ---
 layout: home
-title: ~~~
+title: Welcome
 postsHeading: Latest posts
 archiveButtonText: See all posts
 metaDesc: 'This is my way to learn about web publishing and maybe share something useful at the same time.'
