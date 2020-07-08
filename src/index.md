@@ -7,6 +7,6 @@ metaDesc: 'This is my way to learn about web publishing and maybe share somethin
 socialImage: ''
 ---
 
-I am an earth scientist who likes messing with code. Topics: Little web hacks, coffee, visualization ideas...
+I am an earth scientist who likes to code. Topics: Little web hacks, coffee, visualization ideas...
 
 I hope for this to get weirder with time.
