@@ -5,4 +5,4 @@ date: 2021-01-27T21:33:31.797Z
 tags:
   - recipe
 ---
-![Chopped onions](/images/choppin_onions.png "Dice these onions")
+![Chopping onions and garlic](/images/choppin_onions.png "Chop these onions")
